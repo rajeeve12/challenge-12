@@ -7,3 +7,14 @@ function drawCanvas() {
     const program = parseInt(quantityInput.value);
 }
 //Task 3
+const mouseup = 0;
+const mousedown = 0;
+const mousemove = 1;
+if(MouseEvent>0) {
+    return mousemove;
+}
+//Task 4
+const color = 0;
+if (MouseEvent<0) {
+    return color;
+} else return mousedown;
